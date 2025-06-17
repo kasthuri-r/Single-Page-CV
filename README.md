@@ -1,6 +1,6 @@
-# Kasthuri R - Single Page CV Website
+# Single Page CV
 
-This is a clean and professional **single-page cv** built using **HTML** and **CSS**. It showcases my profile, skills, experience, projects, and links to my online presence — all in a readable and responsive layout.
+This is a clean and professional **single-page cv** built using **HTML** and **CSS**. It showcases my profile, skills, experience, projects, and links to my online presence all in a readable and responsive layout.
 
 ## Key Highlights
 
@@ -9,12 +9,16 @@ This is a clean and professional **single-page cv** built using **HTML** and **C
 - **Open Graph Tags**: Enables better sharing on social media platforms.
 - **Favicon**: Custom favicon added using [favicon.cc](https://www.favicon.cc/?).
 
-## How to run 
+## Preview
+you can view the project live here:
+[Kasthuri Single page cv](https://kasthuri-r.github.io/Single-Page-CV/)
+
+## How to Run 
 1. Clone the repository
 2. open `index.html` in any browser
 
 ---
 
-**project URL**:[roadmap.sh](https://roadmap.sh/projects/single-page-cv)
+**Project URL**:  [roadmap.sh](https://roadmap.sh/projects/single-page-cv)
 
 ---
